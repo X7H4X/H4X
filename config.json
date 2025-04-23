@@ -17,44 +17,44 @@
     "ignoreCommand": []
   },
   "authorName": "ɴɪsᴀɴ-ᴇᴅɪᴛᴢ",
-  "authorFB": "https://www.facebook.com/profile.php?id=61567840496026&mibextid=ZbWKwL",
+  "authorFB": "https://www.facebook.com/profile.php?id=100093588184623",
   "API": {
-    "DIPTO": "https://noobs-api.onrender.com/dipto",
-    "SAMIR": "https://apis-samir.onrender.com",
-    "RUBISH": "https://rubish-apihub.onrender.com/rubish"
+    "mushfiq": "https://noobs-api.onrender.com/mushfiq",
+    "Siad": "https://apis-siad.onrender.com",
+    "niloy": "https://rubish-apihub.onrender.com/niloy"
   },
-  "nickNameBot": "『 - 』•『𝚈 𝙾 𝚄 𝚁 - 𝙽 𝙸 ន ꫝ 𝙽』",
-  "prefix": "-",
+  "nickNameBot": "Blue Pinkくめ",
+  "prefix": "!",
   "vipUser": [
-    "61567840496026",
-    "61566989250005",
-    "61573581846659"
+    "100093588184623",
+    "61573511040148",
+    "61554884616710"
   ],
   "orgDEV": [
-    "61567840496026",
-    "61566989250005",
-    "61573581846659"
+    "100093588184623",
+    "61573511040148",
+    "61554884616710"
   ],
   "adminBot": [
-    "61567840496026",
-    "61566989250005",
-    "61573581846659"
+    "100093588184623",
+    "61573511040148",
+    "61554884616710"
   ],
-"nisanBot": [
-    "28297135763266706"
+"siadBot": [
+    "100093588184623"
   ],
 
-  "rubishapi": "https://rubish-apihub.onrender.com/rubish",
-  "diptoapi": "https://d1pt0-call-bomber.onrender.com/dipto?",
+  "mushfiqapi": "https://mushfiq-apihub.onrender.com/mushfiq",
+  "siadapi": "https://d1pt0-call-bomber.onrender.com/siad?",
   "GOD": [
-    "61567840496026",
-    "61566989250005",
-    "61573581846659"
+    "100093588184623",
+    "61573511040148",
+    "61554884616710"
   ],
   "DEV": [
-    "61567840496026",
-    "61566989250005",
-    "61573581846659"
+    "100093588184623",
+    "61573511040148",
+    "61554884616710"
   ],
   "whiteListMode": {
     "enable": false,
