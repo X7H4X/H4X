@@ -15,12 +15,12 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ⩸_ 𝙽𝙸 𝚂 𝙰𝙽 _⩸ ";
-		const ownAge = "『 ⩸_ 20 _⩸ 』";
-		const messenger = " //m.me/61567840496026";
-		const authorFB = " //www.facebook.com/profile.php?id=61567840496026";
-		const authorNumber = "017××××××98";
-		const Status = "⩸__ 𝚁𝙻𝚂 𝚆𝙷𝙸𝚃 𝙵𝙰𝚁𝙸𝚈𝙰__⩸";
+		const authorName = " ⩸_ MUSHFIQ _⩸ ";
+		const ownAge = "『 ⩸_ 17 _⩸ 』";
+		const messenger = "https://m.me/";
+		const authorFB = " https://www.facebook.com/profile.php?id=100093588184623";
+		const authorNumber = "017××××××39";
+		const Status = "Single";
 		const urls = [
 "http://remakeai-production.up.railway.app/Remake_Ai/Nyx_Remake_1744617090911.gif"
 ];
@@ -49,7 +49,7 @@ module.exports = {
 \🔰彡𝐴𝑛𝑦 𝐻𝑒𝑙𝑝 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 : ${messenger}__⩸
 \📛彡𝐵𝑜𝑡 𝐼𝑠 𝑅𝑢𝑛𝑛𝑖𝑛𝑔 𝐹𝑜𝑟 : ${uptimeString}
     𝑻𝒈:  //t.me/nisan_editz
-    𝑰𝒏𝒔𝒕𝒂:  //www.instagram.com/im_editz_x2.0?
+    𝑰𝒏𝒔𝒕𝒂: //www.instagram.com/itz_siad_khan_87??
 \===============`,
 			attachment: await global.utils.getStreamFromURL(link)
 		});
